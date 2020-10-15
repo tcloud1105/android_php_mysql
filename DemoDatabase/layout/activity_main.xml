@@ -1,0 +1,6 @@
+<RelativeLayout>
+ 
+  <Button
+    android:id="@id/register_activity"
+  />
+</RelativeLayout>
